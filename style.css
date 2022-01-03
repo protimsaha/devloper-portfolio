@@ -8,3 +8,9 @@ span{
     background-color: yellow;
     color: white;
 }
+img{
+    height: 500px;
+}
+section{
+    display: flex;
+}
